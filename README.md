@@ -6,7 +6,7 @@ com o objetivo de colocar em prática testes de integração em TypeScript.<br>
 
 ## Tecnologias utilizadas:
 - Express
-- MySQL
+- MySQL  
 
 ## Pré-requisitos:<br>
 Antes de começar, certifique-se de ter instalado em sua máquina:<br>
